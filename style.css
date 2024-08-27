@@ -1,4 +1,25 @@
 body{
-    background-color: #eedec0;
-    color black;
+    background-color: #98896b;
+    color:beige
 }
+header{
+
+    background-color: rgb(206, 99, 46);
+    padding: 40px;
+    
+    
+    .links{
+       color:antiquewhite#FFF ;
+       font-size: size 30px;
+       text-decoration:none;
+       backgroud-color: blue;
+       padding:15px 25px;
+       border-radius:30px;
+
+    }
+}
+h1{
+    text-align: center;
+
+}
+
