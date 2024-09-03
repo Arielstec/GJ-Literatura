@@ -1,23 +1,24 @@
 body{
     background-color: #98896b;
-    color:beige
+    color:beige;
+    font-family: "Baskervville SC", serif;
+    padding:0 50px;
 }
 header{
 
-    background-color: rgb(206, 99, 46);
+    background-color: rgb(238, 193, 44);
     padding: 40px;
     
-    
+    }
     .links{
-       color:antiquewhite#FFF ;
-       font-size: size 30px;
-       text-decoration:none;
-       backgroud-color: blue;
+       color:rgb (0,139, 69); /*color do texto*/
+       font-size: size 50px; /*tamanho do texto*/
+       text-decoration:none;/*retirar a sublinha*/
+       background-color: rgb(114, 114, 240); /*espaço em torno*/
        padding:15px 25px;
        border-radius:30px;
-
-    }
 }
+
 h1{
     text-align: center;
 
